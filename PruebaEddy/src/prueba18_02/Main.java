@@ -16,5 +16,9 @@ public class Main {
 		System.out.println("capa");
 	}
 
+	public void brach_function(){
+		System.out.println("Teta");
+	}
+
 
 }
