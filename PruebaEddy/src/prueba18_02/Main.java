@@ -11,5 +11,9 @@ public class Main {
 	public void adolfo() {
 		System.out.println("adolfo");
 	}
+	
+	public void Eddy() {
+		System.out.println("Eddy");
+	}
 
 }
