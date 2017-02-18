@@ -20,6 +20,11 @@ public class Main {
 		System.out.println("prueba");
 	}
 
+	public void brach_function(){
+		System.out.println("Teta");
+		System.out.println("Y ahora a mergear");
+	}
+
 	public void Eddy2() {
 		System.out.println("Eddy2");
 	}
