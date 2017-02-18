@@ -19,4 +19,9 @@ public class Main {
 	public void prueba() {
 		System.out.println("prueba");
 	}
+
+	public void Eddy2() {
+		System.out.println("Eddy2");
+	}
+
 }
