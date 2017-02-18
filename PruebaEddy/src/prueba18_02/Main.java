@@ -15,5 +15,8 @@ public class Main {
 	public void Eddy() {
 		System.out.println("Eddy");
 	}
-
+	
+	public void prueba() {
+		System.out.println("prueba");
+	}
 }
