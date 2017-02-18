@@ -23,5 +23,9 @@ public class Main {
 	public void Eddy2() {
 		System.out.println("Eddy2");
 	}
+	
+	public void PrimerCommitRamaEddy() {
+		System.out.println("Eddy2");
+	}
 
 }
