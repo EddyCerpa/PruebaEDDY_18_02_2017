@@ -11,9 +11,13 @@ public class Main {
 	public void adolfo() {
 		System.out.println("adolfo");
 	}
-
-	public void capa() {
-		System.out.println("capa");
+	
+	public void Eddy() {
+		System.out.println("Eddy");
+	}
+	
+	public void prueba() {
+		System.out.println("prueba");
 	}
 
 	public void brach_function(){
@@ -21,5 +25,8 @@ public class Main {
 		System.out.println("Y ahora a mergear");
 	}
 
+	public void Eddy2() {
+		System.out.println("Eddy2");
+	}
 
 }
