@@ -27,5 +27,9 @@ public class Main {
 	public void PrimerCommitRamaEddy() {
 		System.out.println("Eddy2");
 	}
+	
+	public void SegundoCommitRamaEddy() {
+		System.out.println("SegundoCommitRamaEddy");
+	}
 
 }
