@@ -12,4 +12,9 @@ public class Main {
 		System.out.println("adolfo");
 	}
 
+	public void capa() {
+		System.out.println("capa");
+	}
+
+
 }
